@@ -3,18 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to InvoluteCalculatorUserGuide's documentation!
+Involute Calculator User Guide Document
 =======================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   introduction/index
+   theory/index
+   inputcheck/index
+   install/index
+   usage/index
+   example/index
+   issue/index
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+.. ==================
+
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
